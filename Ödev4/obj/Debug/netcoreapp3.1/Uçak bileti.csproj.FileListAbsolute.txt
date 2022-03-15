@@ -1,0 +1,8 @@
+C:\Users\Omer\source\repos\Ödevler\Ödev4\obj\Debug\netcoreapp3.1\Uçak bileti.csproj.AssemblyReference.cache
+C:\Users\Omer\source\repos\Ödevler\Ödev4\obj\Debug\netcoreapp3.1\Ödev4.Form1.resources
+C:\Users\Omer\source\repos\Ödevler\Ödev4\obj\Debug\netcoreapp3.1\Uçak_bileti.Properties.Resources.resources
+C:\Users\Omer\source\repos\Ödevler\Ödev4\obj\Debug\netcoreapp3.1\Uçak bileti.csproj.GenerateResource.cache
+C:\Users\Omer\source\repos\Ödevler\Ödev4\obj\Debug\netcoreapp3.1\Uçak bileti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omer\source\repos\Ödevler\Ödev4\obj\Debug\netcoreapp3.1\Uçak bileti.AssemblyInfoInputs.cache
+C:\Users\Omer\source\repos\Ödevler\Ödev4\obj\Debug\netcoreapp3.1\Uçak bileti.AssemblyInfo.cs
+C:\Users\Omer\source\repos\Ödevler\Ödev4\obj\Debug\netcoreapp3.1\Uçak bileti.csproj.CoreCompileInputs.cache

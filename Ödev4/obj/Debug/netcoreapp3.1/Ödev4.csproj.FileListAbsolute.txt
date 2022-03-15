@@ -1,0 +1,15 @@
+C:\Users\Ömer\source\repos\Ödevler\Ödev4\bin\Debug\netcoreapp3.1\Ödev4.exe
+C:\Users\Ömer\source\repos\Ödevler\Ödev4\bin\Debug\netcoreapp3.1\Ödev4.deps.json
+C:\Users\Ömer\source\repos\Ödevler\Ödev4\bin\Debug\netcoreapp3.1\Ödev4.runtimeconfig.json
+C:\Users\Ömer\source\repos\Ödevler\Ödev4\bin\Debug\netcoreapp3.1\Ödev4.runtimeconfig.dev.json
+C:\Users\Ömer\source\repos\Ödevler\Ödev4\bin\Debug\netcoreapp3.1\Ödev4.dll
+C:\Users\Ömer\source\repos\Ödevler\Ödev4\bin\Debug\netcoreapp3.1\Ödev4.pdb
+C:\Users\Ömer\source\repos\Ödevler\Ödev4\obj\Debug\netcoreapp3.1\Ödev4.Form1.resources
+C:\Users\Ömer\source\repos\Ödevler\Ödev4\obj\Debug\netcoreapp3.1\Ödev4.Properties.Resources.resources
+C:\Users\Ömer\source\repos\Ödevler\Ödev4\obj\Debug\netcoreapp3.1\Ödev4.csproj.GenerateResource.cache
+C:\Users\Ömer\source\repos\Ödevler\Ödev4\obj\Debug\netcoreapp3.1\Ödev4.AssemblyInfoInputs.cache
+C:\Users\Ömer\source\repos\Ödevler\Ödev4\obj\Debug\netcoreapp3.1\Ödev4.AssemblyInfo.cs
+C:\Users\Ömer\source\repos\Ödevler\Ödev4\obj\Debug\netcoreapp3.1\Ödev4.csproj.CoreCompileInputs.cache
+C:\Users\Ömer\source\repos\Ödevler\Ödev4\obj\Debug\netcoreapp3.1\Ödev4.dll
+C:\Users\Ömer\source\repos\Ödevler\Ödev4\obj\Debug\netcoreapp3.1\Ödev4.pdb
+C:\Users\Ömer\source\repos\Ödevler\Ödev4\obj\Debug\netcoreapp3.1\Ödev4.genruntimeconfig.cache
