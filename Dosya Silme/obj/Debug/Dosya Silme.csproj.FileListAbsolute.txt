@@ -1,0 +1,10 @@
+C:\Users\Omer\source\repos\Ödevler\Dosya Silme\bin\Debug\Dosya Silme.exe.config
+C:\Users\Omer\source\repos\Ödevler\Dosya Silme\bin\Debug\Dosya Silme.exe
+C:\Users\Omer\source\repos\Ödevler\Dosya Silme\bin\Debug\Dosya Silme.pdb
+C:\Users\Omer\source\repos\Ödevler\Dosya Silme\obj\Debug\Dosya Silme.csproj.AssemblyReference.cache
+C:\Users\Omer\source\repos\Ödevler\Dosya Silme\obj\Debug\Dosya_Silme.Form1.resources
+C:\Users\Omer\source\repos\Ödevler\Dosya Silme\obj\Debug\Dosya_Silme.Properties.Resources.resources
+C:\Users\Omer\source\repos\Ödevler\Dosya Silme\obj\Debug\Dosya Silme.csproj.GenerateResource.cache
+C:\Users\Omer\source\repos\Ödevler\Dosya Silme\obj\Debug\Dosya Silme.csproj.CoreCompileInputs.cache
+C:\Users\Omer\source\repos\Ödevler\Dosya Silme\obj\Debug\Dosya Silme.exe
+C:\Users\Omer\source\repos\Ödevler\Dosya Silme\obj\Debug\Dosya Silme.pdb

@@ -1,0 +1,10 @@
+C:\Users\Omer\source\repos\Ödevler\Burç bulma\bin\Debug\Burç bulma.exe.config
+C:\Users\Omer\source\repos\Ödevler\Burç bulma\bin\Debug\Burç bulma.exe
+C:\Users\Omer\source\repos\Ödevler\Burç bulma\bin\Debug\Burç bulma.pdb
+C:\Users\Omer\source\repos\Ödevler\Burç bulma\obj\Debug\Burç bulma.csproj.AssemblyReference.cache
+C:\Users\Omer\source\repos\Ödevler\Burç bulma\obj\Debug\Burç_bulma.Form1.resources
+C:\Users\Omer\source\repos\Ödevler\Burç bulma\obj\Debug\Burç_bulma.Properties.Resources.resources
+C:\Users\Omer\source\repos\Ödevler\Burç bulma\obj\Debug\Burç bulma.csproj.GenerateResource.cache
+C:\Users\Omer\source\repos\Ödevler\Burç bulma\obj\Debug\Burç bulma.csproj.CoreCompileInputs.cache
+C:\Users\Omer\source\repos\Ödevler\Burç bulma\obj\Debug\Burç bulma.exe
+C:\Users\Omer\source\repos\Ödevler\Burç bulma\obj\Debug\Burç bulma.pdb
