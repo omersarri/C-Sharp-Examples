@@ -1,0 +1,10 @@
+C:\Users\Omer\source\repos\Ödevler\iki sayı arasındaki asal sayılar\bin\Debug\iki sayı arasındaki asal sayılar.exe.config
+C:\Users\Omer\source\repos\Ödevler\iki sayı arasındaki asal sayılar\bin\Debug\iki sayı arasındaki asal sayılar.exe
+C:\Users\Omer\source\repos\Ödevler\iki sayı arasındaki asal sayılar\bin\Debug\iki sayı arasındaki asal sayılar.pdb
+C:\Users\Omer\source\repos\Ödevler\iki sayı arasındaki asal sayılar\obj\Debug\iki sayı arasındaki asal sayılar.csproj.AssemblyReference.cache
+C:\Users\Omer\source\repos\Ödevler\iki sayı arasındaki asal sayılar\obj\Debug\iki_sayı_arasındaki_asal_sayılar.Form1.resources
+C:\Users\Omer\source\repos\Ödevler\iki sayı arasındaki asal sayılar\obj\Debug\iki_sayı_arasındaki_asal_sayılar.Properties.Resources.resources
+C:\Users\Omer\source\repos\Ödevler\iki sayı arasındaki asal sayılar\obj\Debug\iki sayı arasındaki asal sayılar.csproj.GenerateResource.cache
+C:\Users\Omer\source\repos\Ödevler\iki sayı arasındaki asal sayılar\obj\Debug\iki sayı arasındaki asal sayılar.csproj.CoreCompileInputs.cache
+C:\Users\Omer\source\repos\Ödevler\iki sayı arasındaki asal sayılar\obj\Debug\iki sayı arasındaki asal sayılar.exe
+C:\Users\Omer\source\repos\Ödevler\iki sayı arasındaki asal sayılar\obj\Debug\iki sayı arasındaki asal sayılar.pdb

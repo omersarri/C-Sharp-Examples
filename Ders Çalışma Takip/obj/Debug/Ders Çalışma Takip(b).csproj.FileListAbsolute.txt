@@ -1,0 +1,10 @@
+C:\Users\Omer\source\repos\Ödevler\Ders Çalışma Takip\obj\Debug\Ders Çalışma Takip(b).csproj.AssemblyReference.cache
+C:\Users\Omer\source\repos\Ödevler\Ders Çalışma Takip\obj\Debug\Ders_Çalışma_Takip.Form1.resources
+C:\Users\Omer\source\repos\Ödevler\Ders Çalışma Takip\obj\Debug\Ders_Çalışma_Takip.Properties.Resources.resources
+C:\Users\Omer\source\repos\Ödevler\Ders Çalışma Takip\obj\Debug\Ders Çalışma Takip(b).csproj.GenerateResource.cache
+C:\Users\Omer\source\repos\Ödevler\Ders Çalışma Takip\obj\Debug\Ders Çalışma Takip(b).csproj.CoreCompileInputs.cache
+C:\Users\Omer\source\repos\Ödevler\Ders Çalışma Takip\obj\Debug\Ders Çalışma Takip.exe
+C:\Users\Omer\source\repos\Ödevler\Ders Çalışma Takip\obj\Debug\Ders Çalışma Takip.pdb
+C:\Users\Omer\source\repos\Ödevler\Ders Çalışma Takip\bin\Debug\Ders Çalışma Takip.exe.config
+C:\Users\Omer\source\repos\Ödevler\Ders Çalışma Takip\bin\Debug\Ders Çalışma Takip.exe
+C:\Users\Omer\source\repos\Ödevler\Ders Çalışma Takip\bin\Debug\Ders Çalışma Takip.pdb

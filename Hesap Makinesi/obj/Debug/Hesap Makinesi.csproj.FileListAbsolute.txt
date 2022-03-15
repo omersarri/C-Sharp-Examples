@@ -1,0 +1,10 @@
+C:\Users\Omer\source\repos\Ödevler\Hesap Makinesi\bin\Debug\Hesap Makinesi.exe.config
+C:\Users\Omer\source\repos\Ödevler\Hesap Makinesi\bin\Debug\Hesap Makinesi.exe
+C:\Users\Omer\source\repos\Ödevler\Hesap Makinesi\bin\Debug\Hesap Makinesi.pdb
+C:\Users\Omer\source\repos\Ödevler\Hesap Makinesi\obj\Debug\Hesap Makinesi.csproj.AssemblyReference.cache
+C:\Users\Omer\source\repos\Ödevler\Hesap Makinesi\obj\Debug\Hesap_Makinesi.v.resources
+C:\Users\Omer\source\repos\Ödevler\Hesap Makinesi\obj\Debug\Hesap_Makinesi.Properties.Resources.resources
+C:\Users\Omer\source\repos\Ödevler\Hesap Makinesi\obj\Debug\Hesap Makinesi.csproj.GenerateResource.cache
+C:\Users\Omer\source\repos\Ödevler\Hesap Makinesi\obj\Debug\Hesap Makinesi.csproj.CoreCompileInputs.cache
+C:\Users\Omer\source\repos\Ödevler\Hesap Makinesi\obj\Debug\Hesap Makinesi.exe
+C:\Users\Omer\source\repos\Ödevler\Hesap Makinesi\obj\Debug\Hesap Makinesi.pdb
