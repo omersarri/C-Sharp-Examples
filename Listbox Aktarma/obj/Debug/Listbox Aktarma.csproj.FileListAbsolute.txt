@@ -1,0 +1,9 @@
+C:\Users\Omer\source\repos\Ödevler\Listbox Aktarma\bin\Debug\Listbox Aktarma.exe.config
+C:\Users\Omer\source\repos\Ödevler\Listbox Aktarma\bin\Debug\Listbox Aktarma.exe
+C:\Users\Omer\source\repos\Ödevler\Listbox Aktarma\bin\Debug\Listbox Aktarma.pdb
+C:\Users\Omer\source\repos\Ödevler\Listbox Aktarma\obj\Debug\Listbox_Aktarma.Form1.resources
+C:\Users\Omer\source\repos\Ödevler\Listbox Aktarma\obj\Debug\Listbox_Aktarma.Properties.Resources.resources
+C:\Users\Omer\source\repos\Ödevler\Listbox Aktarma\obj\Debug\Listbox Aktarma.csproj.GenerateResource.cache
+C:\Users\Omer\source\repos\Ödevler\Listbox Aktarma\obj\Debug\Listbox Aktarma.csproj.CoreCompileInputs.cache
+C:\Users\Omer\source\repos\Ödevler\Listbox Aktarma\obj\Debug\Listbox Aktarma.exe
+C:\Users\Omer\source\repos\Ödevler\Listbox Aktarma\obj\Debug\Listbox Aktarma.pdb

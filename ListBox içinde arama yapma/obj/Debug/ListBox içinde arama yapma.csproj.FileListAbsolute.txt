@@ -1,0 +1,10 @@
+C:\Users\Omer\source\repos\Ödevler\ListBox içinde arama yapma\bin\Debug\ListBox içinde arama yapma.exe.config
+C:\Users\Omer\source\repos\Ödevler\ListBox içinde arama yapma\bin\Debug\ListBox içinde arama yapma.exe
+C:\Users\Omer\source\repos\Ödevler\ListBox içinde arama yapma\bin\Debug\ListBox içinde arama yapma.pdb
+C:\Users\Omer\source\repos\Ödevler\ListBox içinde arama yapma\obj\Debug\ListBox içinde arama yapma.csproj.AssemblyReference.cache
+C:\Users\Omer\source\repos\Ödevler\ListBox içinde arama yapma\obj\Debug\ListBox_içinde_arama_yapma.Form1.resources
+C:\Users\Omer\source\repos\Ödevler\ListBox içinde arama yapma\obj\Debug\ListBox_içinde_arama_yapma.Properties.Resources.resources
+C:\Users\Omer\source\repos\Ödevler\ListBox içinde arama yapma\obj\Debug\ListBox içinde arama yapma.csproj.GenerateResource.cache
+C:\Users\Omer\source\repos\Ödevler\ListBox içinde arama yapma\obj\Debug\ListBox içinde arama yapma.csproj.CoreCompileInputs.cache
+C:\Users\Omer\source\repos\Ödevler\ListBox içinde arama yapma\obj\Debug\ListBox içinde arama yapma.exe
+C:\Users\Omer\source\repos\Ödevler\ListBox içinde arama yapma\obj\Debug\ListBox içinde arama yapma.pdb

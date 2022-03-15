@@ -1,0 +1,16 @@
+C:\Users\omer_\source\repos\Ödevler\Kim milyoner olmak ister\obj\Debug\Kim milyoner olmak ister.csproj.AssemblyReference.cache
+C:\Users\omer_\source\repos\Ödevler\Kim milyoner olmak ister\obj\Debug\Kim_milyoner_olmak_ister.Form1.resources
+C:\Users\omer_\source\repos\Ödevler\Kim milyoner olmak ister\obj\Debug\Kim_milyoner_olmak_ister.Properties.Resources.resources
+C:\Users\omer_\source\repos\Ödevler\Kim milyoner olmak ister\obj\Debug\Kim milyoner olmak ister.csproj.GenerateResource.cache
+C:\Users\omer_\source\repos\Ödevler\Kim milyoner olmak ister\obj\Debug\Kim milyoner olmak ister.csproj.CoreCompileInputs.cache
+C:\Users\Omer\source\repos\Ödevler\Kim milyoner olmak ister\bin\Debug\Kim milyoner olmak ister.exe.config
+C:\Users\Omer\source\repos\Ödevler\Kim milyoner olmak ister\bin\Debug\Kim milyoner olmak ister.exe
+C:\Users\Omer\source\repos\Ödevler\Kim milyoner olmak ister\bin\Debug\Kim milyoner olmak ister.pdb
+C:\Users\Omer\source\repos\Ödevler\Kim milyoner olmak ister\obj\Debug\Kim milyoner olmak ister.csproj.AssemblyReference.cache
+C:\Users\Omer\source\repos\Ödevler\Kim milyoner olmak ister\obj\Debug\Kim_milyoner_olmak_ister.Form1.resources
+C:\Users\Omer\source\repos\Ödevler\Kim milyoner olmak ister\obj\Debug\Kim_milyoner_olmak_ister.Properties.Resources.resources
+C:\Users\Omer\source\repos\Ödevler\Kim milyoner olmak ister\obj\Debug\Kim milyoner olmak ister.csproj.GenerateResource.cache
+C:\Users\Omer\source\repos\Ödevler\Kim milyoner olmak ister\obj\Debug\Kim milyoner olmak ister.csproj.CoreCompileInputs.cache
+C:\Users\Omer\source\repos\Ödevler\Kim milyoner olmak ister\obj\Debug\Kim milyoner olmak ister.exe
+C:\Users\Omer\source\repos\Ödevler\Kim milyoner olmak ister\obj\Debug\Kim milyoner olmak ister.pdb
+C:\Users\Omer\source\repos\Ödevler\Kim milyoner olmak ister\obj\Debug\Kim_milyoner_olmak_ister.Form2.resources
