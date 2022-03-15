@@ -1,0 +1,10 @@
+C:\Users\Omer\source\repos\Ödevler\Ödev 5\bin\Debug\Ödev 5.exe.config
+C:\Users\Omer\source\repos\Ödevler\Ödev 5\bin\Debug\Ödev 5.exe
+C:\Users\Omer\source\repos\Ödevler\Ödev 5\bin\Debug\Ödev 5.pdb
+C:\Users\Omer\source\repos\Ödevler\Ödev 5\obj\Debug\KDV hesabı.csproj.AssemblyReference.cache
+C:\Users\Omer\source\repos\Ödevler\Ödev 5\obj\Debug\Ödev_5.Form1.resources
+C:\Users\Omer\source\repos\Ödevler\Ödev 5\obj\Debug\Ödev_5.Properties.Resources.resources
+C:\Users\Omer\source\repos\Ödevler\Ödev 5\obj\Debug\KDV hesabı.csproj.GenerateResource.cache
+C:\Users\Omer\source\repos\Ödevler\Ödev 5\obj\Debug\KDV hesabı.csproj.CoreCompileInputs.cache
+C:\Users\Omer\source\repos\Ödevler\Ödev 5\obj\Debug\Ödev 5.exe
+C:\Users\Omer\source\repos\Ödevler\Ödev 5\obj\Debug\Ödev 5.pdb

@@ -1,0 +1,10 @@
+C:\Users\Ömer\source\repos\Ödevler\Ödev 5\obj\Debug\Ödev 5.csproj.AssemblyReference.cache
+C:\Users\Ömer\source\repos\Ödevler\Ödev 5\obj\Debug\Ödev_5.Form1.resources
+C:\Users\Ömer\source\repos\Ödevler\Ödev 5\obj\Debug\Ödev_5.Properties.Resources.resources
+C:\Users\Ömer\source\repos\Ödevler\Ödev 5\obj\Debug\Ödev 5.csproj.GenerateResource.cache
+C:\Users\Ömer\source\repos\Ödevler\Ödev 5\obj\Debug\Ödev 5.csproj.CoreCompileInputs.cache
+C:\Users\Ömer\source\repos\Ödevler\Ödev 5\bin\Debug\Ödev 5.exe.config
+C:\Users\Ömer\source\repos\Ödevler\Ödev 5\bin\Debug\Ödev 5.exe
+C:\Users\Ömer\source\repos\Ödevler\Ödev 5\bin\Debug\Ödev 5.pdb
+C:\Users\Ömer\source\repos\Ödevler\Ödev 5\obj\Debug\Ödev 5.exe
+C:\Users\Ömer\source\repos\Ödevler\Ödev 5\obj\Debug\Ödev 5.pdb

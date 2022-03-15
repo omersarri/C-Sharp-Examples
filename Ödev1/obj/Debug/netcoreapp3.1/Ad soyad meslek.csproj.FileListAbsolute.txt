@@ -1,0 +1,16 @@
+C:\Users\Omer\source\repos\Ödevler\Ödev1\bin\Debug\netcoreapp3.1\Ad soyad meslek.exe
+C:\Users\Omer\source\repos\Ödevler\Ödev1\bin\Debug\netcoreapp3.1\Ad soyad meslek.deps.json
+C:\Users\Omer\source\repos\Ödevler\Ödev1\bin\Debug\netcoreapp3.1\Ad soyad meslek.runtimeconfig.json
+C:\Users\Omer\source\repos\Ödevler\Ödev1\bin\Debug\netcoreapp3.1\Ad soyad meslek.runtimeconfig.dev.json
+C:\Users\Omer\source\repos\Ödevler\Ödev1\bin\Debug\netcoreapp3.1\Ad soyad meslek.dll
+C:\Users\Omer\source\repos\Ödevler\Ödev1\bin\Debug\netcoreapp3.1\Ad soyad meslek.pdb
+C:\Users\Omer\source\repos\Ödevler\Ödev1\obj\Debug\netcoreapp3.1\Ad soyad meslek.csproj.AssemblyReference.cache
+C:\Users\Omer\source\repos\Ödevler\Ödev1\obj\Debug\netcoreapp3.1\Ödev1.Form1.resources
+C:\Users\Omer\source\repos\Ödevler\Ödev1\obj\Debug\netcoreapp3.1\Ad soyad meslek.csproj.GenerateResource.cache
+C:\Users\Omer\source\repos\Ödevler\Ödev1\obj\Debug\netcoreapp3.1\Ad soyad meslek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omer\source\repos\Ödevler\Ödev1\obj\Debug\netcoreapp3.1\Ad soyad meslek.AssemblyInfoInputs.cache
+C:\Users\Omer\source\repos\Ödevler\Ödev1\obj\Debug\netcoreapp3.1\Ad soyad meslek.AssemblyInfo.cs
+C:\Users\Omer\source\repos\Ödevler\Ödev1\obj\Debug\netcoreapp3.1\Ad soyad meslek.csproj.CoreCompileInputs.cache
+C:\Users\Omer\source\repos\Ödevler\Ödev1\obj\Debug\netcoreapp3.1\Ad soyad meslek.dll
+C:\Users\Omer\source\repos\Ödevler\Ödev1\obj\Debug\netcoreapp3.1\Ad soyad meslek.pdb
+C:\Users\Omer\source\repos\Ödevler\Ödev1\obj\Debug\netcoreapp3.1\Ad soyad meslek.genruntimeconfig.cache
