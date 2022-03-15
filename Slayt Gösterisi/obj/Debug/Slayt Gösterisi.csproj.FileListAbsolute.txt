@@ -1,0 +1,10 @@
+C:\Users\Omer\source\repos\Ödevler\Slayt Gösterisi\bin\Debug\Slayt Gösterisi.exe.config
+C:\Users\Omer\source\repos\Ödevler\Slayt Gösterisi\bin\Debug\Slayt Gösterisi.exe
+C:\Users\Omer\source\repos\Ödevler\Slayt Gösterisi\bin\Debug\Slayt Gösterisi.pdb
+C:\Users\Omer\source\repos\Ödevler\Slayt Gösterisi\obj\Debug\Slayt_Gösterisi.Form1.resources
+C:\Users\Omer\source\repos\Ödevler\Slayt Gösterisi\obj\Debug\Slayt_Gösterisi.Properties.Resources.resources
+C:\Users\Omer\source\repos\Ödevler\Slayt Gösterisi\obj\Debug\Slayt Gösterisi.csproj.GenerateResource.cache
+C:\Users\Omer\source\repos\Ödevler\Slayt Gösterisi\obj\Debug\Slayt Gösterisi.csproj.CoreCompileInputs.cache
+C:\Users\Omer\source\repos\Ödevler\Slayt Gösterisi\obj\Debug\Slayt Gösterisi.exe
+C:\Users\Omer\source\repos\Ödevler\Slayt Gösterisi\obj\Debug\Slayt Gösterisi.pdb
+C:\Users\Omer\source\repos\Ödevler\Slayt Gösterisi\obj\Debug\Slayt Gösterisi.csproj.AssemblyReference.cache

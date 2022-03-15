@@ -1,0 +1,10 @@
+C:\Users\Omer\source\repos\Ödevler\Sinema Rezervasyon\bin\Debug\Sinema Rezervasyon.exe.config
+C:\Users\Omer\source\repos\Ödevler\Sinema Rezervasyon\bin\Debug\Sinema Rezervasyon.exe
+C:\Users\Omer\source\repos\Ödevler\Sinema Rezervasyon\bin\Debug\Sinema Rezervasyon.pdb
+C:\Users\Omer\source\repos\Ödevler\Sinema Rezervasyon\obj\Debug\Sinema Rezervasyon.csproj.AssemblyReference.cache
+C:\Users\Omer\source\repos\Ödevler\Sinema Rezervasyon\obj\Debug\Sinema_Rezervasyon.Form1.resources
+C:\Users\Omer\source\repos\Ödevler\Sinema Rezervasyon\obj\Debug\Sinema_Rezervasyon.Properties.Resources.resources
+C:\Users\Omer\source\repos\Ödevler\Sinema Rezervasyon\obj\Debug\Sinema Rezervasyon.csproj.GenerateResource.cache
+C:\Users\Omer\source\repos\Ödevler\Sinema Rezervasyon\obj\Debug\Sinema Rezervasyon.csproj.CoreCompileInputs.cache
+C:\Users\Omer\source\repos\Ödevler\Sinema Rezervasyon\obj\Debug\Sinema Rezervasyon.exe
+C:\Users\Omer\source\repos\Ödevler\Sinema Rezervasyon\obj\Debug\Sinema Rezervasyon.pdb

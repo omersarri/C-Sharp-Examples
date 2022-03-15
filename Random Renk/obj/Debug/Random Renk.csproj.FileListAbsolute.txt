@@ -1,0 +1,10 @@
+C:\Users\Omer\source\repos\Ödevler\Random Renk\bin\Debug\Random Renk.exe.config
+C:\Users\Omer\source\repos\Ödevler\Random Renk\bin\Debug\Random Renk.exe
+C:\Users\Omer\source\repos\Ödevler\Random Renk\bin\Debug\Random Renk.pdb
+C:\Users\Omer\source\repos\Ödevler\Random Renk\obj\Debug\Random Renk.csproj.AssemblyReference.cache
+C:\Users\Omer\source\repos\Ödevler\Random Renk\obj\Debug\Random_Renk.Properties.Resources.resources
+C:\Users\Omer\source\repos\Ödevler\Random Renk\obj\Debug\Random Renk.csproj.GenerateResource.cache
+C:\Users\Omer\source\repos\Ödevler\Random Renk\obj\Debug\Random Renk.csproj.CoreCompileInputs.cache
+C:\Users\Omer\source\repos\Ödevler\Random Renk\obj\Debug\Random Renk.exe
+C:\Users\Omer\source\repos\Ödevler\Random Renk\obj\Debug\Random Renk.pdb
+C:\Users\Omer\source\repos\Ödevler\Random Renk\obj\Debug\Random_Renk.Form1.resources

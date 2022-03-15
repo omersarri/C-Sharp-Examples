@@ -1,0 +1,20 @@
+C:\Users\Ömer\source\repos\Ödevler\Sinema dükkanıü\bin\Debug\Sinema dükkanıü.exe.config
+C:\Users\Ömer\source\repos\Ödevler\Sinema dükkanıü\bin\Debug\Sinema dükkanıü.exe
+C:\Users\Ömer\source\repos\Ödevler\Sinema dükkanıü\bin\Debug\Sinema dükkanıü.pdb
+C:\Users\Ömer\source\repos\Ödevler\Sinema dükkanıü\obj\Debug\Sinema dükkanıü.csproj.AssemblyReference.cache
+C:\Users\Ömer\source\repos\Ödevler\Sinema dükkanıü\obj\Debug\Sinema_dükkanıü.Form1.resources
+C:\Users\Ömer\source\repos\Ödevler\Sinema dükkanıü\obj\Debug\Sinema_dükkanıü.Properties.Resources.resources
+C:\Users\Ömer\source\repos\Ödevler\Sinema dükkanıü\obj\Debug\Sinema dükkanıü.csproj.GenerateResource.cache
+C:\Users\Ömer\source\repos\Ödevler\Sinema dükkanıü\obj\Debug\Sinema dükkanıü.csproj.CoreCompileInputs.cache
+C:\Users\Ömer\source\repos\Ödevler\Sinema dükkanıü\obj\Debug\Sinema dükkanıü.exe
+C:\Users\Ömer\source\repos\Ödevler\Sinema dükkanıü\obj\Debug\Sinema dükkanıü.pdb
+C:\Users\Omer\source\repos\Ödevler\Sinema dükkanıü\bin\Debug\Sinema dükkanıü.exe.config
+C:\Users\Omer\source\repos\Ödevler\Sinema dükkanıü\bin\Debug\Sinema dükkanıü.exe
+C:\Users\Omer\source\repos\Ödevler\Sinema dükkanıü\bin\Debug\Sinema dükkanıü.pdb
+C:\Users\Omer\source\repos\Ödevler\Sinema dükkanıü\obj\Debug\Sinema dükkanıü.csproj.AssemblyReference.cache
+C:\Users\Omer\source\repos\Ödevler\Sinema dükkanıü\obj\Debug\Sinema_dükkanıü.Form1.resources
+C:\Users\Omer\source\repos\Ödevler\Sinema dükkanıü\obj\Debug\Sinema_dükkanıü.Properties.Resources.resources
+C:\Users\Omer\source\repos\Ödevler\Sinema dükkanıü\obj\Debug\Sinema dükkanıü.csproj.GenerateResource.cache
+C:\Users\Omer\source\repos\Ödevler\Sinema dükkanıü\obj\Debug\Sinema dükkanıü.csproj.CoreCompileInputs.cache
+C:\Users\Omer\source\repos\Ödevler\Sinema dükkanıü\obj\Debug\Sinema dükkanıü.exe
+C:\Users\Omer\source\repos\Ödevler\Sinema dükkanıü\obj\Debug\Sinema dükkanıü.pdb
