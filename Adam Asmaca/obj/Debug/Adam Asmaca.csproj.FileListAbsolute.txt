@@ -1,0 +1,10 @@
+C:\Users\Omer\source\repos\Ödevler\Adam Asmaca\obj\Debug\Adam Asmaca.csproj.AssemblyReference.cache
+C:\Users\Omer\source\repos\Ödevler\Adam Asmaca\obj\Debug\Adam_Asmaca.Form1.resources
+C:\Users\Omer\source\repos\Ödevler\Adam Asmaca\obj\Debug\Adam_Asmaca.Properties.Resources.resources
+C:\Users\Omer\source\repos\Ödevler\Adam Asmaca\obj\Debug\Adam Asmaca.csproj.GenerateResource.cache
+C:\Users\Omer\source\repos\Ödevler\Adam Asmaca\obj\Debug\Adam Asmaca.csproj.CoreCompileInputs.cache
+C:\Users\Omer\source\repos\Ödevler\Adam Asmaca\bin\Debug\Adam Asmaca.exe.config
+C:\Users\Omer\source\repos\Ödevler\Adam Asmaca\bin\Debug\Adam Asmaca.exe
+C:\Users\Omer\source\repos\Ödevler\Adam Asmaca\bin\Debug\Adam Asmaca.pdb
+C:\Users\Omer\source\repos\Ödevler\Adam Asmaca\obj\Debug\Adam Asmaca.exe
+C:\Users\Omer\source\repos\Ödevler\Adam Asmaca\obj\Debug\Adam Asmaca.pdb
